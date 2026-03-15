@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: KEERTHI PRIYA S A</h3>
+<h3>Name: KEERTHI PRIYA S</h3>
 <h3>Register Number: 212224020020 </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
